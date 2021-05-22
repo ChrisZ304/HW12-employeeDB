@@ -34,10 +34,7 @@
 This app can be used by employers, managers, or anyone in need of tracking employee and workplace information in a single, simple and organiized location.
 
 ## Deployed application
-
-[![Employee Tracker Database](HW12-employeeDB/Assets/employee-tracker.gif)] [(HW12-employeeDB/Assets/HW12-demo.mp4)]
-
-HW12-employeeDB/Assets/HW12-demo.mp4
+[![Employee Tracker Database](HW12-employeeDB/Assets/Untitled_ May 21, 2021 8_03 PM.gif)](HW12-employeeDB/Assets/HW12-demo.mp4)<br />
 ## Languages
 
 Node JS, mysql <br />
